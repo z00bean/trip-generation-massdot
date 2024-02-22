@@ -8,7 +8,14 @@ This project aims to develop Massachusetts-specific trip generation models for l
 - [TRB Link](https://rip.trb.org/view/1851848)
 - [Research project statement](https://www.umasstransportationcenter.org/images/umtc/2021ResearchProjectStatements/Developing%20Massachusetts%20Specific%20Trip%20Generation%20Rates%20for%20Land%20Use%20Projects%20-%20Project%20Statement.pdf)
 
-![Project Image 1](images/img1.png)
+![Sample output](images/sample-output.jpg)
+
+*Sample output showing vehicle count in specified direction.*
+
+
+![RGB-IR comparision](images/RGB-IR_comparision.jpg)
+
+*Comparision of RGB and IR cameras at night.*
 
 ## Duration
 March 2021 - September 2023
