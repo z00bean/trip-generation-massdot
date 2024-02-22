@@ -5,7 +5,7 @@ This project aims to develop Massachusetts-specific trip generation models for l
 
 ## Outputs
 - [Final Report from mass.gov](https://www.mass.gov/doc/developing-massachusetts-specific-trip-generation-models-for-land-use-projects-final-report/download)
-- [TRB Link](https://rip.trb.org/view/1851848)
+- [TRB RIP Link](https://rip.trb.org/view/1851848)
 - [Research project statement](https://www.umasstransportationcenter.org/images/umtc/2021ResearchProjectStatements/Developing%20Massachusetts%20Specific%20Trip%20Generation%20Rates%20for%20Land%20Use%20Projects%20-%20Project%20Statement.pdf)
 
 ![Sample output](images/sample-output.jpg)
