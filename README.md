@@ -1,7 +1,7 @@
 # MA trip generation
 
 ## Overview
-This project, conducted by researchers from the University of Massachusetts Lowell in collaboration with the Massachusetts Department of Transportation, aims to develop Massachusetts-specific trip generation models for land use projects. The primary focus is on utilizing location-based service (LBS) data to create accurate and efficient trip generation models, particularly for urban sites that benefit from proximity to public transportation.
+This project aims to develop Massachusetts-specific trip generation models for land use projects. The primary focus is on utilizing location-based service (LBS) data to create accurate and efficient trip generation models, particularly for urban sites that benefit from proximity to public transportation.
 
 ## Outputs
 - [Final Report from mass.gov](https://www.mass.gov/doc/developing-massachusetts-specific-trip-generation-models-for-land-use-projects-final-report/download)
