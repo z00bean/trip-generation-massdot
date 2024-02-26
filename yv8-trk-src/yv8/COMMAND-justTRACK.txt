@@ -1,0 +1,17 @@
+conda activate yolov8.0-track
+
+CONFIG loc: ~/miniconda3/envs/yolov8.0-track/lib/python3.10/site-packages/ultralytics/yolo/configs
+https://docs.ultralytics.com/usage/cfg/#augmentation
+
+TRAIN
+cd /media/zubin/Stuff1/CODE/YOLOv8-DeepSORT/yolo/v8/detect
+yolo/configs/default.yaml -> mossiac, mixup, degrees
+
+python train.py model=yolov8l.pt data=/media/xxzu/Stuff1/DATA/TRANSPORT/trans-drone/Night-Medford-img/ANNOTATIONS/yolo/dataset-drone-Medford-night.yaml epochs=80 batch=8 
+
+Not working (yolo detect train data=/media/xxzu/Stuff1/DATA/TRANSPORT/trans-drone/Night-Medford-img/ANNOTATIONS/yolo/dataset-drone-Medford-night.yaml model=yolov8l.pt epochs=80 batch=8 mosaic=0.0 degrees=4.0 fliplr=0.2)
+
+
+tracking_vehicle_counting-NoCountingNoLine.py
+
+
