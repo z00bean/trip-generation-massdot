@@ -29,7 +29,7 @@ March 2021 - September 2023
 
 ![Sample output](images/sample-output1.jpg)
 
-*Videos were collected from over 25 locations. Several thousand vodeos were processed. Training and inference was done using A100 and RTX 4090 GPUs.*
+*Videos were collected from over 25 locations. Several thousand video clips were collected and processed. Training and inference was done using A100 and RTX 4090 GPUs.*
 
 
 ![RGB-IR comparision](images/rgb-ir-comparision.jpg)
