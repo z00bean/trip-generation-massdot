@@ -12,9 +12,24 @@ This project aims to develop Massachusetts-specific trip generation models for l
 
 *Sample output showing vehicle count in specified direction.*
 
+
+
+## Project Duration
+March 2021 - September 2023
+
+## Video Data Collection and Processing
+- **Objective:** Develop Massachusetts-specific trip generation models using LBS data.
+- **Methodology:** Utilize YOLOv8 Medium for object detection and tracking in RGB and IR traffic videos.
+- **Significance:** Overcome limitations of traditional data collection methods, particularly for urban sites.
+- Procedure developed for video data collection using trail cameras and automatic processing using AI algorithms.
+- RGB and IR videos tested for vehicle detection and tracking.
+- YOLOv8-Medium adopted for vehicle detection, with Deep-SORT algorithm for tracking.
+- Results showed the feasibility and potential of using LBS data, with lower absolute percentage error compared to ITE estimates.
+
+
 ![Sample output](images/sample-output1.jpg)
 
-*Videos were collected from over 20 locations.*
+*Videos were collected from over 25 locations. Several thousand vodeos were processed. Training and inference was done using A100 and RTX 4090 GPUs.*
 
 
 ![RGB-IR comparision](images/rgb-ir-comparision.jpg)
@@ -26,17 +41,6 @@ This project aims to develop Massachusetts-specific trip generation models for l
 
 *Comparision of detections in RGB and IR camera videos at night.*
 
-## Duration
-March 2021 - September 2023
-
-## Video Data Collection and Processing
-- **Objective:** Develop Massachusetts-specific trip generation models using LBS data.
-- **Methodology:** Utilize YOLOv8 Medium for object detection and tracking in RGB and IR traffic videos.
-- **Significance:** Overcome limitations of traditional data collection methods, particularly for urban sites.
-- Procedure developed for video data collection using trail cameras and automatic processing using AI algorithms.
-- RGB and IR videos tested for vehicle detection and tracking.
-- YOLOv8-Medium adopted for vehicle detection, with Deep-SORT algorithm for tracking.
-- Results showed the feasibility and potential of using LBS data, with lower absolute percentage error compared to ITE estimates.
 
 ---
 
