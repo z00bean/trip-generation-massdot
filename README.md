@@ -12,10 +12,19 @@ This project aims to develop Massachusetts-specific trip generation models for l
 
 *Sample output showing vehicle count in specified direction.*
 
+![Sample output](images/sample-output1.jpg)
+
+*Videos were collected from over 20 locations.*
+
+
+![RGB-IR comparision](images/rgb-ir-comparision.jpg)
+
+*Comparision of RGB and IR camera image quality.*
+
 
 ![RGB-IR comparision](images/RGB-IR_comparision.jpg)
 
-*Comparision of RGB and IR cameras at night.*
+*Comparision of detections in RGB and IR camera videos at night.*
 
 ## Duration
 March 2021 - September 2023
