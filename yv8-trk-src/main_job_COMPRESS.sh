@@ -12,8 +12,8 @@ conda init bash
 
 nvidia-smi
 echo
-cd /work/pi_yuanchang_xie_uml_edu/zubin/DATA/trip-gen/processed-OUT_DIR/BATCH3
+cd ~/DATA/trip-gen/processed-OUT_DIR/BATCH3
 echo
-source unity-module-change-beta
+
 module load ffmpeg/4.4.1-libx264
 sh compress-processed-vids.sh
